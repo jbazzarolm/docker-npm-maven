@@ -2,7 +2,7 @@
 
 
 FROM node:10-alpine
-LABEL maintainer="clement.schockaert@outlook.com"
+LABEL maintainer="julien.bazzaro@ext.leroymerlin.fr"
 
 ## install docker
 
